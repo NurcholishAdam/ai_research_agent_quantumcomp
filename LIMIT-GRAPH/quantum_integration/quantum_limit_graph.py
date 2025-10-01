@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: Apache-2.0
+
 # -*- coding: utf-8 -*-
 """
 Quantum LIMIT-Graph v2.0 - Main Integration Class
@@ -475,4 +477,5 @@ class QuantumLimitGraph:
         
         logger.info(f"✅ Quantum advantage demonstrated: {demonstration['classical_equivalent']['speedup_factor']:.2f}x speedup")
         
+
         return demonstration
