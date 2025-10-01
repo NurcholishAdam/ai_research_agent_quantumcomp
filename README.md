@@ -85,5 +85,7 @@ This applies to:
 - Benchmarking harnesses and integration scripts
 - Evaluation pipelines and agent alignment tools
 
+![Quantum Alignment Compliant](https://img.shields.io/badge/Quantum%20Agent-SPDX%20Validated-blueviolet?style=flat-square)
+
 Multilingual corpora and visual identity assets (e.g., logo, badges) are released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
   
