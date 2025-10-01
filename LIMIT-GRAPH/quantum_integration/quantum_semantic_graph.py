@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: Apache-2.0
+
 # -*- coding: utf-8 -*-
 """
 Stage 1: Semantic Graph → Quantum Graph Embedding
@@ -309,4 +311,5 @@ class QuantumSemanticGraph:
         metrics['alignment_matrix'] = alignment_matrix
         metrics['average_alignment'] = np.mean(list(alignment_matrix.values())) if alignment_matrix else 0.0
         
+
         return metrics
