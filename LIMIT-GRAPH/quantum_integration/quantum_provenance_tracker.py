@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: Apache-2.0
+
 # -*- coding: utf-8 -*-
 """
 Stage 5: Visual Identity & Provenance → Quantum Traceability
@@ -574,4 +576,5 @@ class QuantumProvenanceTracker:
                 'branching_factor': len(self.entanglement_registry) / len(self.provenance_graph)
             })
         
+
         return metrics
