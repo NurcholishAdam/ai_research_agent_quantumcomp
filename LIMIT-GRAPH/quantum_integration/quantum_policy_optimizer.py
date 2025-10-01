@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: Apache-2.0
+
 # -*- coding: utf-8 -*-
 """
 Stage 2: RLHF → Quantum Policy Optimization
@@ -349,4 +351,5 @@ class QuantumPolicyOptimizer:
             metrics['current_policy_norm'] = float(np.linalg.norm(self.policy_params))
             metrics['policy_complexity'] = len(self.policy_params)
         
+
         return metrics
