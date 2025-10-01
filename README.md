@@ -75,3 +75,15 @@ The quantum integration provides:
 - **3x better** context disambiguation accuracy with cultural preservation
 - **Parallel evaluation** across Indonesian, Arabic, Spanish, English, and Chinese
 - **Quantum-secure** model provenance tracking with cultural fingerprinting
+
+## License
+
+Quantum LIMIT-GRAPH v2.0 is licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).
+
+This applies to:
+- All code modules and quantum circuits
+- Benchmarking harnesses and integration scripts
+- Evaluation pipelines and agent alignment tools
+
+Multilingual corpora and visual identity assets (e.g., logo, badges) are released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+  
