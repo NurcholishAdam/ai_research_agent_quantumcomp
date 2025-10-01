@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: Apache-2.0
+
 # -*- coding: utf-8 -*-
 """
 Stage 3: Context Engineering → Quantum Contextuality
@@ -419,4 +421,5 @@ class QuantumContextEngine:
             metrics['average_cultural_similarity'] = np.mean(similarities)
             metrics['cultural_diversity'] = np.var(similarities)
         
+
         return metrics
