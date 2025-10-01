@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: Apache-2.0
+
 # -*- coding: utf-8 -*-
 """
 Multilingual Quantum Processor for Enhanced Language Support
@@ -479,4 +481,5 @@ class MultilingualQuantumProcessor:
             'max_qubits': self.max_qubits,
             'quantum_advantage_factor': len(self.language_configs) ** 2,
             'cross_cultural_mappings': len(self.language_configs) * (len(self.language_configs) - 1) // 2
+
         }
