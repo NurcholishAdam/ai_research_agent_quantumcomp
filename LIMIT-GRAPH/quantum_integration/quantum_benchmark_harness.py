@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: Apache-2.0
+
 # -*- coding: utf-8 -*-
 """
 Stage 4: Evaluation Harness → Quantum Benchmarking
@@ -518,4 +520,5 @@ class QuantumBenchmarkHarness:
                 'evaluation_efficiency': len(self.languages) / np.mean(execution_times) if execution_times else 0
             })
         
+
         return metrics
