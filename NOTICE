@@ -1,0 +1,7 @@
+This project includes components from:
+
+- Qiskit (Apache License 2.0)
+- PennyLane (Apache License 2.0)
+- Cirq (Apache License 2.0)
+- Hugging Face datasets (CC BY 4.0)
+- Lambeq (Apache License 2.0)
