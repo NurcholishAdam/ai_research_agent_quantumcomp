@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: Apache-2.0
+
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
@@ -350,4 +352,5 @@ def main():
     sys.exit(0)
 
 if __name__ == "__main__":
+
     main()
